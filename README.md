@@ -1,5 +1,5 @@
 # AppNET6
-Este proyecto se trata de una pequeña app que implementa Clean Architecture, Inyección de Dependencia, base de datos SQL Server Management, Dapper como ORM, AutoMapper, Swagger, JWT, UnitOfWork, y MSTest como herramienta de testing.
+Este proyecto se trata de una pequeña app que implementa Clean Architecture, Inyección de Dependencia, base de datos SQL Server Management, Dapper como ORM, AutoMapper, Swagger, JWT, UnitOfWork, Control de Versiones y MSTest como herramienta de testing.
 
 
 
