@@ -1,0 +1,197 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FluentValidation/11.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.2.2": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.2.2",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.2.2": {
+      "sha512": "5QEte2BUZZF6Sezeekr7Zu1THfgpxU7pmuL2SjIrajuGMah+pxPGiRiLtw+x/tSUSSVmcv9LrUe41lKu4l0n4A==",
+      "type": "package",
+      "path": "fluentvalidation/11.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.2.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.2.2": {
+      "sha512": "4JFJec9ILLax7vrVN7S6mVzlvc2Lwqu0lN3yl0LUoNVsJ8m1QB/twif/DX05EG+pYD83SWJ07wQ65WePGu2iGg==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "sha512": "8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Application.DTO/Pacagroup.Ecommerce.Application.DTO.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Application.DTO/Pacagroup.Ecommerce.Application.DTO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FluentValidation >= 11.2.2",
+      "FluentValidation.DependencyInjectionExtensions >= 11.2.2",
+      "Pacagroup.Ecommerce.Application.DTO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ariel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Aplication.Validator\\Pacagroup.Ecommerce.Application.Validator.csproj",
+      "projectName": "Pacagroup.Ecommerce.Application.Validator",
+      "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Aplication.Validator\\Pacagroup.Ecommerce.Application.Validator.csproj",
+      "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Aplication.Validator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.2.2, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[11.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

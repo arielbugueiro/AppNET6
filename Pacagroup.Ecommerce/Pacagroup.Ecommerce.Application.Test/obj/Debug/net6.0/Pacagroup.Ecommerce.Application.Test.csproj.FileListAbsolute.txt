@@ -1,0 +1,7 @@
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\obj\Debug\net6.0\Pacagroup.Ecommerce.Application.Test.csproj.AssemblyReference.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\obj\Debug\net6.0\Pacagroup.Ecommerce.Application.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\obj\Debug\net6.0\Pacagroup.Ecommerce.Application.Test.AssemblyInfoInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\obj\Debug\net6.0\Pacagroup.Ecommerce.Application.Test.AssemblyInfo.cs
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Test\obj\Debug\net6.0\Pacagroup.Ecommerce.Application.Test.csproj.CoreCompileInputs.cache

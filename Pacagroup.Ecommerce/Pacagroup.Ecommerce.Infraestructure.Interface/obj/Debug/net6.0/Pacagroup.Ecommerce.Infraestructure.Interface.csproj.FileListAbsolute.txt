@@ -1,0 +1,45 @@
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.deps.json
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.deps.json
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.deps.json
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Infraestructure.Interface.dll

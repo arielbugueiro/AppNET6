@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Repository\\Pacagroup.Ecommerce.Infraestructure.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
+        "projectName": "Pacagroup.Ecommerce.Domain.Entity",
+        "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data\\Pacagroup.Ecommerce.Infraestructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data\\Pacagroup.Ecommerce.Infraestructure.Data.csproj",
+        "projectName": "Pacagroup.Ecommerce.Infraestructure.Data",
+        "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data\\Pacagroup.Ecommerce.Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface\\Pacagroup.Ecommerce.Infraestructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface\\Pacagroup.Ecommerce.Infraestructure.Interface.csproj",
+        "projectName": "Pacagroup.Ecommerce.Infraestructure.Interface",
+        "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface\\Pacagroup.Ecommerce.Infraestructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Repository\\Pacagroup.Ecommerce.Infraestructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Repository\\Pacagroup.Ecommerce.Infraestructure.Repository.csproj",
+        "projectName": "Pacagroup.Ecommerce.Infraestructure.Repository",
+        "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Repository\\Pacagroup.Ecommerce.Infraestructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data\\Pacagroup.Ecommerce.Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data\\Pacagroup.Ecommerce.Infraestructure.Data.csproj"
+              },
+              "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface\\Pacagroup.Ecommerce.Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface\\Pacagroup.Ecommerce.Infraestructure.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

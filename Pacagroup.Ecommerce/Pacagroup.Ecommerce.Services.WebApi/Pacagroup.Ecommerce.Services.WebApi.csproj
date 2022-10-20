@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="6.0.2" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="6.0.5" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.5" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="6.0.5" />
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="6.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.23.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Aplication.Validator\Pacagroup.Ecommerce.Application.Validator.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.DTO\Pacagroup.Ecommerce.Application.DTO.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Interface\Pacagroup.Ecommerce.Application.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Main\Pacagroup.Ecommerce.Application.Main.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Domain.Core\Pacagroup.Ecommerce.Domain.Core.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Domain.Entity\Pacagroup.Ecommerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Domain.Interface\Pacagroup.Ecommerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Infraestructure.Data\Pacagroup.Ecommerce.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Infraestructure.Interface\Pacagroup.Ecommerce.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Infraestructure.Repository\Pacagroup.Ecommerce.Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Transversal.Common\Pacagroup.Ecommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Transversal.Logging\Pacagroup.Ecommerce.Transversal.Logging.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Transversal.Mapper\Pacagroup.Ecommerce.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

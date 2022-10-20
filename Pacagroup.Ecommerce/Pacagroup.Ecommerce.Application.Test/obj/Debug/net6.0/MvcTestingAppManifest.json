@@ -1,0 +1,16 @@
+{
+  "Pacagroup.Ecommerce.Application.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO",
+  "Pacagroup.Ecommerce.Application.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface",
+  "Pacagroup.Ecommerce.Application.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main",
+  "Pacagroup.Ecommerce.Application.Validator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Aplication.Validator",
+  "Pacagroup.Ecommerce.Domain.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core",
+  "Pacagroup.Ecommerce.Domain.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity",
+  "Pacagroup.Ecommerce.Domain.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface",
+  "Pacagroup.Ecommerce.Infraestructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Data",
+  "Pacagroup.Ecommerce.Infraestructure.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Interface",
+  "Pacagroup.Ecommerce.Infraestructure.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infraestructure.Repository",
+  "Pacagroup.Ecommerce.Services.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi",
+  "Pacagroup.Ecommerce.Transversal.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common",
+  "Pacagroup.Ecommerce.Transversal.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Logging",
+  "Pacagroup.Ecommerce.Transversal.Mapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ariel.bugueiro\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper"
+}

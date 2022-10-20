@@ -1,0 +1,36 @@
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.deps.json
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.deps.json
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.deps.json
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Domain.Entity.dll

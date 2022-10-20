@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cm4QOIHfIyNegCEQ6ZwCLzy4iWtw2veWb9Gs/+0JAJw4iLMSIPBI+WF0EHonBAigDiBN9D1vdtH925NzQLyOpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariel\\Desktop\\-ArchitectureDesign-master\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Aplication.Validator\\Pacagroup.Ecommerce.Application.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariel\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

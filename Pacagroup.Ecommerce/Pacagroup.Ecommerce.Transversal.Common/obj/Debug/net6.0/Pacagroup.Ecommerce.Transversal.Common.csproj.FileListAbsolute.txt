@@ -1,0 +1,36 @@
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Ariel\Desktop\Arquitectura App .Net 6\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\ariel.bugueiro\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Ariel\Desktop\-ArchitectureDesign-master\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Transversal.Common.dll
